@@ -12,7 +12,8 @@ ___
     - Skapa en lista över alla de delar som kräver implementation i JavaScript
     - Vilken typ av funktionalitet behövs för de olika delarna i din sammanställning.
     - Testa alla de funktioner och anrop som du måste kunna genomföra med ett verktyg 
-    (functional tests, integration tests, regression tests) (T.ex. Postman, RestClient i Firefox eller Advanced Rest Client i Chrome.)
+    (functional tests, integration tests, regression tests) 
+    (T.ex. Postman, RestClient i Firefox eller Advanced Rest Client i Chrome.)
 
 ___
 **Obligatorisk (1p):** 
